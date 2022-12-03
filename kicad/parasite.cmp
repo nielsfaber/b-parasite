@@ -1,0 +1,275 @@
+Cmp-Mod V01 Created by PcbNew   date = 23/11/2022 15:31:58
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-000060358e5d
+Path = /00000000-0000-0000-0000-000060386a6f
+Reference = BT1;
+ValeurCmp = Battery_Cell;
+IdModule  = Library:BatteryHolder_combined;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-000060af623f
+Path = /00000000-0000-0000-0000-0000604c2391
+Reference = U1;
+ValeurCmp = E73-2G4M08S1C-52840;
+IdModule  = Library:E73-2G4M08S1C-52840;
+EndCmp
+
+BeginCmp
+TimeStamp = bd9e1573-b00a-4925-97a8-7d4bb7ccf00b
+Path = /8ea9f479-2230-4b44-9214-d9babc6d3e65
+Reference = SW1;
+ValeurCmp = SW_Push;
+IdModule  = Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-0000600d4d96
+Path = /00000000-0000-0000-0000-0000600e6e5b
+Reference = C1;
+ValeurCmp = 1n;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-0000600d4dc6
+Path = /00000000-0000-0000-0000-0000600d105b
+Reference = C6;
+ValeurCmp = 100p;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-0000600d4e5c
+Path = /00000000-0000-0000-0000-0000600e7750
+Reference = R6;
+ValeurCmp = 1M;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-0000600d4e8c
+Path = /00000000-0000-0000-0000-0000601113e2
+Reference = R5;
+ValeurCmp = 1k;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-0000600d4ebc
+Path = /00000000-0000-0000-0000-0000600fff47
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-0000600de2e8
+Path = /00000000-0000-0000-0000-000060188253
+Reference = Q1;
+ValeurCmp = MMBT3904;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-0000600e67dd
+Path = /00000000-0000-0000-0000-0000601057d9
+Reference = R3;
+ValeurCmp = 1k;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-0000601e234e
+Path = /00000000-0000-0000-0000-0000600e0e7a
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00006035901b
+Path = /00000000-0000-0000-0000-00006035e763
+Reference = TP7;
+ValeurCmp = IO;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-000060359023
+Path = /00000000-0000-0000-0000-00006035d56e
+Reference = TP2;
+ValeurCmp = CLK;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-000060359047
+Path = /00000000-0000-0000-0000-00006039fe47
+Reference = TP5;
+ValeurCmp = RST;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00006035904f
+Path = /00000000-0000-0000-0000-00006037e819
+Reference = TP6;
+ValeurCmp = GND;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-000060359057
+Path = /00000000-0000-0000-0000-00006037d82c
+Reference = TP1;
+ValeurCmp = VCC;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00006035c630
+Path = /00000000-0000-0000-0000-00006037fe48
+Reference = R2;
+ValeurCmp = 1k;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-00006035cb9b
+Path = /00000000-0000-0000-0000-00006036f153
+Reference = C2;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-0000604bd7be
+Path = /00000000-0000-0000-0000-0000604da824
+Reference = Q3;
+ValeurCmp = AO3407;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-0000604c1116
+Path = /00000000-0000-0000-0000-0000604e7179
+Reference = Y1;
+ValeurCmp = 32.768kHz;
+IdModule  = Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-0000604c11f8
+Path = /00000000-0000-0000-0000-00006038131f
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-0000604c135f
+Path = /00000000-0000-0000-0000-0000604ee953
+Reference = C4;
+ValeurCmp = 12p;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-0000604c1f2a
+Path = /00000000-0000-0000-0000-0000604edbdb
+Reference = C3;
+ValeurCmp = 12p;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-0000604c2e8c
+Path = /00000000-0000-0000-0000-00006016579e
+Reference = Cpara1;
+ValeurCmp = 5p;
+IdModule  = Capacitor_SMD:C_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-0000604c3442
+Path = /00000000-0000-0000-0000-00006037481e
+Reference = R7;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-0000604c346c
+Path = /00000000-0000-0000-0000-000060372d0f
+Reference = R8;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-0000604c3ae9
+Path = /00000000-0000-0000-0000-0000601897a7
+Reference = Q2;
+ValeurCmp = MMBT3904;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-0000604c6cc1
+Path = /00000000-0000-0000-0000-00006052cfbe
+Reference = U2;
+ValeurCmp = SHTC3;
+IdModule  = kicad:Sensirion_DFN-4-1EP_2x2mm_P1mm_EP0.7x1.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-0000604cb9c4
+Path = /00000000-0000-0000-0000-0000600e601e
+Reference = D1;
+ValeurCmp = LL4148;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-0000604cba6d
+Path = 
+Reference = REF**;
+ValeurCmp = OSHW-Symbol_6.7x6mm_SilkScreen;
+IdModule  = Symbol:OSHW-Symbol_6.7x6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-000060ae3b96
+Path = /00000000-0000-0000-0000-000060145a9d
+Reference = TP4;
+ValeurCmp = VSO;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-000061615a08
+Path = /00000000-0000-0000-0000-000061614edb
+Reference = TP3;
+ValeurCmp = PHOTO_OUT;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-000061615d86
+Path = /00000000-0000-0000-0000-000060aeba02
+Reference = R10;
+ValeurCmp = 470;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000-0000-0000-0000-000061616d8f
+Path = /00000000-0000-0000-0000-0000613f6ce6
+Reference = Q4;
+ValeurCmp = Q_Photo_NPN;
+IdModule  = snapeda:TR8;
+EndCmp
+
+EndListe

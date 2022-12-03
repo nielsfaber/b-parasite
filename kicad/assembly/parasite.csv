@@ -1,0 +1,27 @@
+Comment,Designator,Footprint,LCSC
+Battery_Cell Single-cell battery,BT1,BatteryHolder_combined,
+"1n Unpolarized capacitor, small symbol",C1,C_0402_1005Metric,C1523
+"100n Unpolarized capacitor, small symbol",C2,C_0402_1005Metric,C1525
+"12p Unpolarized capacitor, small symbol","C3,C4",C_0402_1005Metric,C1547
+"100p Unpolarized capacitor, small symbol",C6,C_0402_1005Metric,C1546
+"5p Unpolarized capacitor, small symbol",Cpara1,C_0805_2012Metric,
+"LL4148 100V 0.15A standard switching diode, MiniMELF",D1,D_MiniMELF,C9808
+LED Light emitting diode,D2,LED_0603_1608Metric,C2286
+"MMBT3904 0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23","Q1,Q2",SOT-23,C20526
+AO3407 ,Q3,SOT-23,C181093
+"Q_Photo_NPN NPN phototransistor, collector/emitter",Q4,TR8,C146233
+"10k Resistor, small US symbol","R1,R4,R7,R8",R_0402_1005Metric,C25744
+"1k Resistor, small US symbol","R2,R3,R5",R_0402_1005Metric,C11702
+"1M Resistor, small US symbol",R6,R_0402_1005Metric,C26083
+"470 Resistor, small US symbol",R10,R_0402_1005Metric,C25117
+"SKRKAEE020 Push button switch, generic, two pins",SW1,SW_Push_SPST_NO_Alps_SKRK,C115357
+IO test point,TP1,TestPoint_Pad_D1.0mm,
+CLK test point,TP2,TestPoint_Pad_D1.0mm,
+PHOTO_OUT test point,TP3,TestPoint_Pad_D1.0mm,
+VSO test point,TP4,TestPoint_Pad_D1.0mm,
+RST test point,TP5,TestPoint_Pad_D1.0mm,
+GND test point,TP6,TestPoint_Pad_D1.0mm,
+VCC test point,TP7,TestPoint_Pad_D1.0mm,
+E73-2G4M08S1C-52840 ,U1,E73-2G4M08S1C-52840,C356849
+"SHTC3 Humidity and Temperature Sensor, +/-2%RH, +/-0.2degC, I2C, 1.62-3.6V, DFN-4",U2,Sensirion_DFN-4-1EP_2x2mm_P1mm_EP0.7x1.6mm,C194656
+32.768kHz Two pin crystal,Y1,Crystal_SMD_3215-2Pin_3.2x1.5mm,C32346
